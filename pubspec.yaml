@@ -1,0 +1,14 @@
+name: simple_state
+description: A simple and custom Flutter state management solution.
+version: 0.0.1
+homepage: https://github.com/yourusername/simple_state
+repository: https://github.com/yourusername/simple_state
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
