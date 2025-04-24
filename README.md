@@ -29,7 +29,7 @@ final counter = StateManager().create<int>('counter', 0);
 
 StateBuilder<int>(
   keyName: 'counter',
-  builder: (context, value) => Text('Count: \$value'),
+  builder: (context, value) => Text('Count: $value'),
 );
 ```
 
