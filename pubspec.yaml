@@ -1,8 +1,8 @@
 name: simple_state
 description: A simple and custom Flutter state management solution.
 version: 0.0.1
-homepage: https://github.com/yourusername/simple_state
-repository: https://github.com/yourusername/simple_state
+homepage: https://github.com/BuiTuanAnh2001/SimpleStatePackage
+repository: https://github.com/BuiTuanAnh2001/SimpleStatePackage
 environment:
   sdk: '>=3.0.0 <4.0.0'
 

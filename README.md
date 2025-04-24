@@ -17,7 +17,7 @@ A simple and lightweight state management package for Flutter, built without usi
 dependencies:
   simple_state:
     git:
-      url: https://github.com/yourusername/simple_state
+      url: https://github.com/BuiTuanAnh2001/SimpleStatePackage
 ```
 
 _(or once published: just use `simple_state: ^0.0.1`)_
